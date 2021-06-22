@@ -4,3 +4,5 @@ https://img.shields.io/badge/dynamic/yaml?url=<URL>&label=<LABEL>&query=<[$.DATA
 
 [![Medium Badge](image/-Medium-12100E)](https://github.com/moonbaaang)
 
+https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white
+

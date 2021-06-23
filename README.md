@@ -1,4 +1,4 @@
-![GitHub branch checks state](image/main)
+![GitHub branch checks state](https://img.shields.io/github/checks-status/moonbaaang/FiniteElementMethod/main?color=skyblue&label=docker&logo=docker&logoColor=white&style=flat-square)
 
 # 동해 형성에 대한 유한 요소 수치 모형 제작과 형성 가설의 입증
 

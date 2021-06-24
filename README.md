@@ -1,4 +1,4 @@
-
+![main1all](image/main1all.gif)
 
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/moonbaaang/FiniteElementMethod/main?color=skyblue&label=docker&logo=docker&logoColor=white&style=flat-square)
 
@@ -9,6 +9,8 @@
 > *Advisor* 지도교수 소병달
 >
 > *teammate* 장민석 문병전 홍윤서
+
+
 
 ![aspect](image/aspect.jpg)
 

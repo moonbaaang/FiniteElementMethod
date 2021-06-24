@@ -1,3 +1,5 @@
+
+
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/moonbaaang/FiniteElementMethod/main?color=skyblue&label=docker&logo=docker&logoColor=white&style=flat-square)
 
 # 동해 형성에 대한 유한 요소 수치 모형 제작과 형성 가설의 입증
@@ -221,6 +223,6 @@
 * Two stage rifting 모델의 경우 대규모 분지 형성이 가능하고 실제 지형과 일치하는 회전 양상이 관찰되며 기존 가설의 단점들이 보완됨
   * 동해 형성 가설에 적합
 
-#### 향후 과제
+## 향후 과제
 
 * 추후 연구에서는 동해에 작용하고 있는 다양한 응력을 적용, 여러 조건을 실험하여 형성 기작에 대한 이해를 증진시키고 발전된 모델을 통해 동해 진화에 대한 지구 동역학적 재현을 추구

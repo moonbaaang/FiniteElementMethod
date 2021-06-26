@@ -1,7 +1,6 @@
+<img alt="python" src ="image/python-3776AB.svg"/><img alt="docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 ![main1all](image/main1all.gif)
-
-
- <img alt="python" src ="image/python-3776AB.svg"/><img alt="docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+ 
 # 동해 형성에 대한 유한 요소 수치 모형 제작과 형성 가설의 입증
 
 > 강원대학교 지구물리학과 판구조 · 지구동역학 연구실
